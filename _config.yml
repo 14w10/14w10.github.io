@@ -99,5 +99,5 @@ theme: 3-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:14w10/14w10.github.io.git
+  repo: git@github.com:14w10/14w10.github.io.git
   branch: master
